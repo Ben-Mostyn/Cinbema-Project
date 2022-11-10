@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Cabin&display=swap");
+/*font-family: 'Cabin', sans-serif;*/
+
+.home {
+  height: 100vh;
+  /* border: solid pink 12px; */
+  overflow: hidden;
+}
+
+.homeImg {
+  /* border: solid green 2px; */
+  width: 100%;
+  /* position: absolute;
+  left: 0;
+  top: -40; */
+}
+
+.home h1 {
+  position: absolute;
+  top: 200px;
+  /* left: 30%; */
+  color: black;
+  z-index: 1;
+  font-family: "Cabin", sans-serif;
+  font-size: 3.5rem;
+  width: 100%;
+}
